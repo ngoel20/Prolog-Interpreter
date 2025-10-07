@@ -1,6 +1,6 @@
 (* test.ml *)
 open OUnit2
-open Assignment_7
+open Interpreter
 
 (* Test resolution function with a basic Horn clause program *)
 let test_resolution _ =
